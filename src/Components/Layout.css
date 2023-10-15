@@ -1,4 +1,9 @@
+@font-face {
+    font-family: 'digital-7 ';
+    src:url("../fonts/digital-7.ttf")
+    }
 .calculator{
+    font-family: "digital-7",sans-serif;
     border: 1px solid #cccccc;
     box-shadow: 10px 10px 30px 0px rgba(0,0,0,0.75);
     border-radius: 20px;

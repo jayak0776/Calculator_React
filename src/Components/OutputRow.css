@@ -1,16 +1,16 @@
-/* @import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"); */
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css");
 @font-face {
     font-family: 'digital-7 ';
     src:url("../fonts/digital-7.ttf")
     }
 
 .screen{
-    font-family: "digital-7",sans-serif;
+    font-family: "digital-7";
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 90%;
-    font-size: 1.5rem;
+    font-size: 2rem;
     height: 30px;
     border: none;
     background-color: #25a8e0;
